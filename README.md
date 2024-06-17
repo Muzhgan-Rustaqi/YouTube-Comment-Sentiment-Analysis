@@ -20,5 +20,4 @@ Summarize findings regarding the sentiment expressed by YouTube users.
 Discuss trends, patterns, and insights discovered through the analysis.
 # Tools Used
 Python Libraries: pandas, numpy, matplotlib, seaborn, TextBlob
-API: YouTube Data API v3
 Visualization: Matplotlib, Seaborn, WordCloud
